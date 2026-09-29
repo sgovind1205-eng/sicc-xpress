@@ -5,3 +5,4 @@ web-build/
 dist/
 *.log
 .DS_Store
+.env
